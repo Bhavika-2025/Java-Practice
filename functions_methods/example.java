@@ -1,19 +1,28 @@
 package functions_methods;
 
-import java.util.Scanner;
+import java.util.LinkedList;
+import java.util.List;
 
-public class write_table {
-
-    public static void table_Print(int n) {
-        for (int i = 1; i <= 10; i++) {
-            System.out.println(n + " X " + i + " = " + n * i);
-        }
-    }
+public class example {
 
     public static void main(String[] args) {
-        System.out.println("Enter the number ");
-        Scanner sc = new Scanner(System.in);
-        int n = sc.nextInt();
-        table_Print(n);
+        List<String> list1 = new LinkedList<>();
+        list1.add("One");
+
+        list1.add("Two");
+
+        list1.add("OneThree");
+
+        list1.add("Three");
+
+        list1.add("One");
+
+        List<String> list2 = new LinkedList<>();
+        list2.add("One");
+
+        list1.removeAll(list2);
+        for (String item : list1) {
+            System.out.print(item + " ");
+        }
     }
 }
