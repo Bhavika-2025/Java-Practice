@@ -13,3 +13,5 @@ Arrays: Additional array-related challenges.
 Bit_manioulation: Examples of bit manipulation techniques and operations.
 
 Functions_methods: Practice with functions and methods in Java.
+
+Recursion: Practice problems involving recursive solutions, such as factorial calculation, Fibonacci series, and more.
