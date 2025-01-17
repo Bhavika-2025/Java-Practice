@@ -1,17 +1,32 @@
-# Contents
+# 🐤 GfG 160 - 160 Days of Problem Solving 🐤
 
-Array_based: Exercises focusing on array manipulations and operations.
+A journey through 160 days of learning and mastering problem-solving with GeeksforGeeks! From arrays to sorting, this roadmap has it all.  
+Let's dive in! 🚀  
 
-OOPS: Concepts and examples related to Object-Oriented Programming in Java.
+---
 
-Patterns: Examples of pattern printing using loops.
+## 🚀 Arrays Mastery  
 
-String_questions: Problems and solutions involving string manipulation.
+Unleash the power of arrays with these fundamental to advanced problems.  
+✨ **Days Covered: 1 to 13**  
 
-Arrays: Additional array-related challenges.
+| ☀️ Day  | 🌟 Problem                                      | 🚀 Level | 🔗 Solution                  |
+|---------|------------------------------------------------|----------|------------------------------|
+| Day 1   | [Second Largest](#)                           | 🟢 Easy  | [Solved Check It Now!](#)    |
+| Day 2   | [Move All Zeroes to End](#)                   | 🟢 Easy  | [Solved Check It Now!](#)    |
+| Day 3   | [Reverse an Array](#)                         | 🟢 Easy  | [Solved Check It Now!](#)    |
+| Day 4   | [Rotate Array](#)                             | 🟡 Medium| [Solved Check It Now!](#)    |
+| Day 5   | [Next Permutation](#)                         | 🟡 Medium| [Solved Check It Now!](#)    |
+| Day 6   | [Majority Element II](#)                      | 🟡 Medium| [Solved Check It Now!](#)    |
+| Day 7   | [Stock Buy and Sell – Multiple Transactions Allowed](#) | 🔴 Hard | [Solved Check It Now!](#) |
 
-Bit_manioulation: Examples of bit manipulation techniques and operations.
+---
 
-Functions_methods: Practice with functions and methods in Java.
+### How It Works:
+- **Easy (🟢):** Beginner-friendly problems to get started with arrays.
+- **Medium (🟡):** Intermediate-level problems to enhance logic and understanding.
+- **Hard (🔴):** Challenging problems to test advanced skills and concepts.
 
-Recursion: Practice problems involving recursive solutions, such as factorial calculation, Fibonacci series, and more.
+---
+
+Happy Coding! 🎉
