@@ -7,7 +7,6 @@ Let's dive in! 🚀
 
 ## 🚀 Arrays Mastery  
 
-Unleash the power of arrays with these fundamental to advanced problems.  
 ✨ **Days Covered: 1 to 13**  
 
 | 🌟 Day   | 🧩 Problem                                        | 🚀 Level  | 🔗 Solution               |
